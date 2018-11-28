@@ -1,3 +1,5 @@
+package fr.wildcodeschool.main;
+
 public class Penguin extends Bird implements Swim {
 
     private boolean swimming;
